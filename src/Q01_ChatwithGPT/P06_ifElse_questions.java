@@ -1,4 +1,4 @@
-package Main_ChatwithGPT;
+package Q01_ChatwithGPT;
 
 import java.util.Scanner;
 import java.util.regex.Pattern;
@@ -18,6 +18,9 @@ public class P06_ifElse_questions {
         System.out.print("This program checks the letter you given is a vowel or consonant" +
                 "\nPlease enter a letter :  ");
         String letter = scan.next();
+
+        System.out.println();
+        System.out.println("========== RESULT ==========");
 
         if (Pattern.matches("[aeiou]", letter)) {
             System.out.println(letter + " is a vowel letter.");

@@ -1,4 +1,4 @@
-package Main_ChatwithGPT;
+package Q01_ChatwithGPT;
 
 import java.util.Scanner;
 import java.util.regex.Pattern;
