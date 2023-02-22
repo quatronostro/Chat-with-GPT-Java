@@ -2,7 +2,7 @@ package Q01_ChatwithGPT;
 
 import java.util.Scanner;
 
-public class P02_ifElse_questions {
+public class P02_ifElse_evenOdd {
     public static void main(String[] args) {
 
         /*

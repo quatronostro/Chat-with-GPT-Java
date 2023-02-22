@@ -2,7 +2,7 @@ package Q01_ChatwithGPT;
 
 import java.util.Scanner;
 
-public class P07_ifElse_questions {
+public class P07_ifElse_primeNumber {
     public static void main(String[] args) {
          /*
         I asked to ChatGPT:

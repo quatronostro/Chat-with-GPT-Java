@@ -39,6 +39,7 @@
   <component name="ProjectId" id="2LxwTXqmlqbx4Gh7ZLEmkg56TyJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="1" id="Remove" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -57,9 +58,9 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.P07_ifElse_questions">
-    <configuration name="P03_ifElse_questions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q01_ChatwithGPT.P03_ifElse_questions" />
+  <component name="RunManager" selected="Application.P09_ifElse_passwordControler">
+    <configuration name="P05_ifElse_leapOrNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q01_ChatwithGPT.P05_ifElse_leapOrNot" />
       <module name="Chat_with_GTP" />
       <extension name="coverage">
         <pattern>
@@ -71,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P04_ifElse_questions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q01_ChatwithGPT.P04_ifElse_questions" />
+    <configuration name="P06_ifElse_vowelConstant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q01_ChatwithGPT.P06_ifElse_vowelConstant" />
       <module name="Chat_with_GTP" />
       <extension name="coverage">
         <pattern>
@@ -84,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P05_ifElse_questions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q01_ChatwithGPT.P05_ifElse_questions" />
+    <configuration name="P07_ifElse_primeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q01_ChatwithGPT.P07_ifElse_primeNumber" />
       <module name="Chat_with_GTP" />
       <extension name="coverage">
         <pattern>
@@ -97,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P06_ifElse_questions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q01_ChatwithGPT.P06_ifElse_questions" />
+    <configuration name="P08_ifElse_emailControler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q01_ChatwithGPT.P08_ifElse_emailControler" />
       <module name="Chat_with_GTP" />
       <extension name="coverage">
         <pattern>
@@ -110,8 +111,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P07_ifElse_questions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q01_ChatwithGPT.P07_ifElse_questions" />
+    <configuration name="P09_ifElse_passwordControler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q01_ChatwithGPT.P09_ifElse_passwordControler" />
       <module name="Chat_with_GTP" />
       <extension name="coverage">
         <pattern>
@@ -125,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.P07_ifElse_questions" />
-        <item itemvalue="Application.P06_ifElse_questions" />
-        <item itemvalue="Application.P05_ifElse_questions" />
-        <item itemvalue="Application.P04_ifElse_questions" />
-        <item itemvalue="Application.P03_ifElse_questions" />
+        <item itemvalue="Application.P09_ifElse_passwordControler" />
+        <item itemvalue="Application.P08_ifElse_emailControler" />
+        <item itemvalue="Application.P07_ifElse_primeNumber" />
+        <item itemvalue="Application.P06_ifElse_vowelConstant" />
+        <item itemvalue="Application.P05_ifElse_leapOrNot" />
       </list>
     </recent_temporary>
   </component>

@@ -2,7 +2,7 @@ package Q01_ChatwithGPT;
 
 import java.util.Scanner;
 
-public class P03_ifElse_questions {
+public class P03_ifElse_emptyOrNot {
     public static void main(String[] args) {
         /*
         I asked to ChatGPT:

@@ -3,7 +3,7 @@ package Q01_ChatwithGPT;
 import java.util.Scanner;
 import java.util.regex.Pattern;
 
-public class P06_ifElse_questions {
+public class P06_ifElse_vowelConstant {
     public static void main(String[] args) {
         /*
         I asked to ChatGPT:

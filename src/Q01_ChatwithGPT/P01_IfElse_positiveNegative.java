@@ -3,7 +3,7 @@ package Q01_ChatwithGPT;
 import java.util.Scanner;
 import java.util.regex.Pattern;
 
-public class P01_IfElse_questions {
+public class P01_IfElse_positiveNegative {
 
     public static void main(String[] args) {
         /*
