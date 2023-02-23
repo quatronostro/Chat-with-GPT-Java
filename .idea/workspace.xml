@@ -58,13 +58,13 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.P09_ifElse_passwordControler">
-    <configuration name="P05_ifElse_leapOrNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q01_ChatwithGPT.P05_ifElse_leapOrNot" />
+  <component name="RunManager" selected="Application.P02_addOperator">
+    <configuration name="P01_stringReverseMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q02_ChatwithGPT.P01_stringReverseMethod" />
       <module name="Chat_with_GTP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Q01_ChatwithGPT.*" />
+          <option name="PATTERN" value="Q02_ChatwithGPT.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P06_ifElse_vowelConstant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q01_ChatwithGPT.P06_ifElse_vowelConstant" />
+    <configuration name="P02_addOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q02_ChatwithGPT.P02_addOperator" />
       <module name="Chat_with_GTP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Q01_ChatwithGPT.*" />
+          <option name="PATTERN" value="Q02_ChatwithGPT.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P02_addOperator" />
+        <item itemvalue="Application.P01_stringReverseMethod" />
         <item itemvalue="Application.P09_ifElse_passwordControler" />
         <item itemvalue="Application.P08_ifElse_emailControler" />
         <item itemvalue="Application.P07_ifElse_primeNumber" />
-        <item itemvalue="Application.P06_ifElse_vowelConstant" />
-        <item itemvalue="Application.P05_ifElse_leapOrNot" />
       </list>
     </recent_temporary>
   </component>
