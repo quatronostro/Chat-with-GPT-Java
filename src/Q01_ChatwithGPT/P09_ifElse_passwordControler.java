@@ -107,6 +107,6 @@ public class P09_ifElse_passwordControler {
                 digit = false;
             }
         }
-        return isLower(str);
+        return isDigit(str);
     }
 }
