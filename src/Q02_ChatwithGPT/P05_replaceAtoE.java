@@ -2,7 +2,7 @@ package Q02_ChatwithGPT;
 
 import java.util.Scanner;
 
-public class P03_untilGreater10 {
+public class P05_replaceAtoE {
     public static void main(String[] args) {
          /*
         I asked to ChatGPT:
@@ -13,22 +13,22 @@ public class P03_untilGreater10 {
         while loops, for loops, string manipulations, and method calls:
          */
 
-        // Q3: Write a while loop that prompts the user to enter a number,
-        // and keeps prompting them until they enter a number
-        // that is greater than 10.
+        // Q5: Write a program that reads in a string and replaces all occurrences of the letter "a" with "e".
 
         Scanner scan = new Scanner(System.in);
-        System.out.print("Please enter a positive intiger :  ");
-        int enterednum = scan.nextInt();
-
-        do {
-            System.out.println("Please enter another number : ");
-            enterednum = scan.nextInt();
-        } while (enterednum < 10);
+        System.out.print("This program will change all 'a' letters to 'e' in your text, so lets try..." +
+                "\nPlease enter some text :  ");
+        String text = scan.nextLine();
 
         System.out.println();
         System.out.println("========== RESULT ==========");
-        System.out.println("You won the game!");
-
+        System.out.println(ReplaceAtoE(text));
     }
+
+    public static String ReplaceAtoE(String text){
+        String str = text.toLowerCase();
+        str = str.replaceAll("a", "e");
+        return str;
+    }
+
 }
