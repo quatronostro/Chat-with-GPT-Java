@@ -58,7 +58,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.P09_charFinder">
+  <component name="RunManager" selected="Application.P08_oddNumber1to15">
     <configuration name="P05_replaceAtoE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Q02_ChatwithGPT.P05_replaceAtoE" />
       <module name="Chat_with_GTP" />
@@ -126,8 +126,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.P09_charFinder" />
         <item itemvalue="Application.P08_oddNumber1to15" />
+        <item itemvalue="Application.P09_charFinder" />
         <item itemvalue="Application.P07_factorialFinder" />
         <item itemvalue="Application.P06_agaramFinder" />
         <item itemvalue="Application.P05_replaceAtoE" />

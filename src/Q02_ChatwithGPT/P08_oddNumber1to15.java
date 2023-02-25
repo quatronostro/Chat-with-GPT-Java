@@ -20,8 +20,10 @@ public class P08_oddNumber1to15 {
 
         System.out.println();
         System.out.println("========== RESULT ==========");
-        for (int i = 1; i <= 15 ; i += 2) {
-            System.out.print(i + " ");
+        for (int i = 1; i <= 15 ; i ++) {
+            if (i % 2 != 0){
+                System.out.print(i + " ");
+            }
         }
     }
 }
