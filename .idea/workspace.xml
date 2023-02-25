@@ -58,59 +58,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.P05_replaceAtoE">
-    <configuration name="P01_stringReverseMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q02_ChatwithGPT.P01_stringReverseMethod" />
-      <module name="Chat_with_GTP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Q02_ChatwithGPT.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P02_addOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q02_ChatwithGPT.P02_addOperator" />
-      <module name="Chat_with_GTP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Q02_ChatwithGPT.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P03_untilGreater10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q02_ChatwithGPT.P03_untilGreater10" />
-      <module name="Chat_with_GTP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Q02_ChatwithGPT.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P04_numberOfvowels_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q02_ChatwithGPT.P04_numberOfvowels_String" />
-      <module name="Chat_with_GTP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Q02_ChatwithGPT.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P09_charFinder">
     <configuration name="P05_replaceAtoE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Q02_ChatwithGPT.P05_replaceAtoE" />
       <module name="Chat_with_GTP" />
@@ -124,13 +72,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P06_agaramFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q02_ChatwithGPT.P06_agaramFinder" />
+      <module name="Chat_with_GTP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Q02_ChatwithGPT.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P07_factorialFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q02_ChatwithGPT.P07_factorialFinder" />
+      <module name="Chat_with_GTP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Q02_ChatwithGPT.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P08_oddNumber1to15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q02_ChatwithGPT.P08_oddNumber1to15" />
+      <module name="Chat_with_GTP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Q02_ChatwithGPT.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P09_charFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q02_ChatwithGPT.P09_charFinder" />
+      <module name="Chat_with_GTP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Q02_ChatwithGPT.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P09_charFinder" />
+        <item itemvalue="Application.P08_oddNumber1to15" />
+        <item itemvalue="Application.P07_factorialFinder" />
+        <item itemvalue="Application.P06_agaramFinder" />
         <item itemvalue="Application.P05_replaceAtoE" />
-        <item itemvalue="Application.P04_numberOfvowels_String" />
-        <item itemvalue="Application.P03_untilGreater10" />
-        <item itemvalue="Application.P02_addOperator" />
-        <item itemvalue="Application.P01_stringReverseMethod" />
       </list>
     </recent_temporary>
   </component>
