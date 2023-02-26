@@ -58,13 +58,13 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.P08_oddNumber1to15">
-    <configuration name="P05_replaceAtoE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q02_ChatwithGPT.P05_replaceAtoE" />
+  <component name="RunManager" selected="Application.P02_passwordControllerdoWhile">
+    <configuration name="P01_numberguessing1_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q3_ChatwithGPT.P01_numberguessing1_10" />
       <module name="Chat_with_GTP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Q02_ChatwithGPT.*" />
+          <option name="PATTERN" value="Q3_ChatwithGPT.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P06_agaramFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q02_ChatwithGPT.P06_agaramFinder" />
+    <configuration name="P02_passwordControllerdoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q3_ChatwithGPT.P02_passwordControllerdoWhile" />
       <module name="Chat_with_GTP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Q02_ChatwithGPT.*" />
+          <option name="PATTERN" value="Q3_ChatwithGPT.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P07_factorialFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q02_ChatwithGPT.P07_factorialFinder" />
+    <configuration name="P03_untilGreater10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q02_ChatwithGPT.P03_untilGreater10" />
       <module name="Chat_with_GTP" />
       <extension name="coverage">
         <pattern>
@@ -126,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P02_passwordControllerdoWhile" />
+        <item itemvalue="Application.P03_untilGreater10" />
+        <item itemvalue="Application.P01_numberguessing1_10" />
         <item itemvalue="Application.P08_oddNumber1to15" />
         <item itemvalue="Application.P09_charFinder" />
-        <item itemvalue="Application.P07_factorialFinder" />
-        <item itemvalue="Application.P06_agaramFinder" />
-        <item itemvalue="Application.P05_replaceAtoE" />
       </list>
     </recent_temporary>
   </component>

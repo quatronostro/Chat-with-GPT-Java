@@ -20,11 +20,13 @@ public class P03_untilGreater10 {
         Scanner scan = new Scanner(System.in);
         System.out.print("Please enter a positive intiger :  ");
         int enterednum = scan.nextInt();
+        boolean correctNum = (enterednum > 10);
 
-        do {
-            System.out.println("Please enter another number : ");
+        while (!correctNum){
+            System.out.println("Try another number : ");
             enterednum = scan.nextInt();
-        } while (enterednum < 10);
+            correctNum = (enterednum > 10);
+        }
 
         System.out.println();
         System.out.println("========== RESULT ==========");
