@@ -31,18 +31,65 @@ public class P02_passwordControllerdoWhile {
                 "\n1) Password must contain at least 1 lowercase letter. " +
                 "\n2) Password must contain at least 1 Uppercase letter. " +
                 "\n3) Password must contain at least 1 integer. " +
-                "\n4) Password must be at least 8 characters. " +
-                "\nEnter you new password : ");
-        String password = "";
+                "\n4) Password must be at least 8 characters. ");
 
-        boolean criteria = P09_ifElse_passwordControler.isDigit(password) && P09_ifElse_passwordControler.isLower(password) &&
-                P09_ifElse_passwordControler.isLower(password) && password.length() >= 8;
+        String password;
+        int flag = 4;
+        char ch;
+        boolean upper = false;
+        boolean lower = false;
+        boolean digit = false;
+
 
         do {
+            System.out.println("Enter your password : ");
             password = scan.nextLine();
-            if (!P09_ifElse_passwordControler.isDigit(password)){
 
+
+            for (int i = 0; i < password.length(); i++) {
+                ch = password.charAt(i);
+                upper = Character.isUpperCase(ch);
             }
-        } while (criteria)
+            for (int i = 0; i < password.length(); i++) {
+                ch = password.charAt(i);
+                lower = Character.isUpperCase(ch);
+            }
+            for (int i = 0; i < password.length(); i++) {
+                ch = password.charAt(i);
+                digit = Character.isDigit(ch);
+            }
+
+
+            if (!upper) {
+                System.out.println("Your password must contain at least 1 integer!, Please try again.");
+                password = scan.nextLine();
+            } else {
+                flag++;
+            }
+
+            if (!lower) {
+                System.out.println("Your password must contain at least 1 lowercase letter!, Please try again.");
+                password = scan.nextLine();
+            } else {
+                flag++;
+            }
+
+            if (!digit) {
+                System.out.println("Your password must contain at least 1 Uppercase letter!, Please try again.");
+                password = scan.nextLine();
+            } else {
+                flag++;
+            }
+
+            if (password.length() >= 8) {
+                flag++;
+            } else {
+                System.out.println("Your password must contain at least 1 lowercase letter!, Please try again.");
+                password = scan.nextLine();
+            }
+
+        } while (flag == 4);
+
+
     }
 }

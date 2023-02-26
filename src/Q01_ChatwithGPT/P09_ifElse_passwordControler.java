@@ -30,7 +30,7 @@ public class P09_ifElse_passwordControler {
                     System.out.println("The password must contain at least one uppercase letter, " +
                             "\nPlease try again: ");
                 } else {
-                    flagCounter++;
+                    flagCounter ++;
                 }
                 if (!isLower(password)){
                     System.out.println("The password must contain at least one lowercase letter, " +
@@ -71,11 +71,7 @@ public class P09_ifElse_passwordControler {
 
         for (int i = 0; i < str.length(); i++) {
             ch = str.charAt(i);
-            if (Character.isUpperCase(ch)){
-                upper = true;
-            } else {
-                upper = false;
-            }
+            upper = Character.isUpperCase(ch);
         }
         return isUpper(str);
     }
