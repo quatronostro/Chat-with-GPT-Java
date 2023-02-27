@@ -15,7 +15,7 @@ public class P02_passwordControllerdoWhile {
         Certainly! Here are some mixed Java questions:
          */
 
-        // Q1: Write a do-while loop that prompts the user to enter a password,
+        // Q2: Write a do-while loop that prompts the user to enter a password,
         // and keeps prompting them until they enter a valid password
         // (which can be defined based on certain criteria).
 
