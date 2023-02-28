@@ -17,7 +17,27 @@ public class P04_substringMethod {
         // and returns the number of times the substring appears in the string.
 
         Scanner scan = new Scanner(System.in);
+        System.out.println("This program gives you number of times substring appears in the string" +
+                "\nPlease enter some text : ");
+        String str = scan.nextLine();
+        System.out.println("Please enter what you find in that text : ");
+        String findStr = scan.nextLine();
 
-        //https://stackoverflow.com/questions/767759/find-the-number-of-occurrences-of-a-substring-in-a-string
+        int lastIndex = 0;
+        int count = 0;
+
+        while (lastIndex != -1){
+            lastIndex = str.indexOf(findStr, lastIndex);
+
+            if (lastIndex != -1){
+                count++;
+                lastIndex += findStr.length();
+            }
+        }
+
+        System.out.println();
+        System.out.println("========== RESULT ==========");
+        System.out.println("The substring used " + count + " times in the string.");
+
     }
 }

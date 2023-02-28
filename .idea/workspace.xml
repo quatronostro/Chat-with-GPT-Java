@@ -58,20 +58,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.P03_biggerInteger">
-    <configuration name="P01_numberguessing1_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q3_ChatwithGPT.P01_numberguessing1_10" />
-      <module name="Chat_with_GTP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Q3_ChatwithGPT.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P05_sumEvenNumbersinArray">
     <configuration name="P02_passwordControllerdoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Q3_ChatwithGPT.P02_passwordControllerdoWhile" />
       <module name="Chat_with_GTP" />
@@ -111,12 +98,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P08_oddNumber1to15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q02_ChatwithGPT.P08_oddNumber1to15" />
+    <configuration name="P04_substringMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q3_ChatwithGPT.P04_substringMethod" />
       <module name="Chat_with_GTP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Q02_ChatwithGPT.*" />
+          <option name="PATTERN" value="Q3_ChatwithGPT.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P05_sumEvenNumbersinArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q3_ChatwithGPT.P05_sumEvenNumbersinArray" />
+      <module name="Chat_with_GTP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Q3_ChatwithGPT.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P05_sumEvenNumbersinArray" />
+        <item itemvalue="Application.P04_substringMethod" />
         <item itemvalue="Application.P03_biggerInteger" />
         <item itemvalue="Application.P02_passwordControllerdoWhile" />
         <item itemvalue="Application.P03_untilGreater10" />
-        <item itemvalue="Application.P01_numberguessing1_10" />
-        <item itemvalue="Application.P08_oddNumber1to15" />
       </list>
     </recent_temporary>
   </component>
