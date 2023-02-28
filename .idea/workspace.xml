@@ -58,39 +58,13 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.P05_sumEvenNumbersinArray">
-    <configuration name="P02_passwordControllerdoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q3_ChatwithGPT.P02_passwordControllerdoWhile" />
-      <module name="Chat_with_GTP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Q3_ChatwithGPT.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P07_doubleIntegerArray">
     <configuration name="P03_biggerInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Q3_ChatwithGPT.P03_biggerInteger" />
       <module name="Chat_with_GTP" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Q3_ChatwithGPT.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P03_untilGreater10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q02_ChatwithGPT.P03_untilGreater10" />
-      <module name="Chat_with_GTP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Q02_ChatwithGPT.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,13 +98,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P06_forLoopfoStringtoUppercaseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q3_ChatwithGPT.P06_forLoopfoStringtoUppercaseArray" />
+      <module name="Chat_with_GTP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Q3_ChatwithGPT.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P07_doubleIntegerArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q3_ChatwithGPT.P07_doubleIntegerArray" />
+      <module name="Chat_with_GTP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Q3_ChatwithGPT.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P07_doubleIntegerArray" />
+        <item itemvalue="Application.P06_forLoopfoStringtoUppercaseArray" />
         <item itemvalue="Application.P05_sumEvenNumbersinArray" />
         <item itemvalue="Application.P04_substringMethod" />
         <item itemvalue="Application.P03_biggerInteger" />
-        <item itemvalue="Application.P02_passwordControllerdoWhile" />
-        <item itemvalue="Application.P03_untilGreater10" />
       </list>
     </recent_temporary>
   </component>
