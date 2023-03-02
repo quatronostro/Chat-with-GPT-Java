@@ -17,7 +17,7 @@ public class P03_biggerInteger {
 
         Scanner scan = new Scanner(System.in);
         System.out.println("This program tells the larger integer of the two integers yo give. ");
-        //        "\nPlease enter two consecutive integer : ");
+
         int firsNum;
         int secondNum;
         boolean flag = false;
@@ -26,9 +26,10 @@ public class P03_biggerInteger {
             System.out.println("Please enter two consecutive integer : ");
             firsNum = scan.nextInt();
             secondNum = scan.nextInt();
-            if (!(firsNum >= 1) || !(firsNum <= 9) && !(secondNum >= 1) || !(secondNum <= 9)) {
+            if (!(firsNum > 0) || !(firsNum < 10)) {
                 System.out.println("Integer must be between 0 to 9, please try again.");
-                flag = false;
+            } else if (!(secondNum > 0) || !(secondNum < 10)) {
+                System.out.println("Integer must be between 0 to 9, please try again.");
             } else {
                 if (firsNum > secondNum) {
                     System.out.println();
@@ -43,6 +44,6 @@ public class P03_biggerInteger {
                 }
             }
         }
-        //System.out.println("Integer must be between 0 to 9, please try again.");
+
     }
 }
