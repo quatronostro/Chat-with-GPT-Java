@@ -16,7 +16,7 @@ public class P10_multiplicationTable1_10 {
 
         System.out.println("*** MULTIPLICATION TABLE 1 to 10 ***");
 
-
+        int lineNumber = 10;
 
         for (int i = 1; i <= 10 ; i++) {
             for (int j = 1; j <= 3 ; j++) {
