@@ -58,9 +58,9 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.P12_primeNumberMethod">
-    <configuration name="P03_biggerInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q3_ChatwithGPT.P03_biggerInteger" />
+  <component name="RunManager" selected="Application.C14_passwordControlMethod">
+    <configuration name="C14_passwordControlMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q3_ChatwithGPT.C14_passwordControlMethod" />
       <module name="Chat_with_GTP" />
       <extension name="coverage">
         <pattern>
@@ -72,25 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P04_substringMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q3_ChatwithGPT.P04_substringMethod" />
+    <configuration name="P08_ifElse_emailControler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q01_ChatwithGPT.P08_ifElse_emailControler" />
       <module name="Chat_with_GTP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Q3_ChatwithGPT.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P10_multiplicationTable1_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q3_ChatwithGPT.P10_multiplicationTable1_10" />
-      <module name="Chat_with_GTP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Q3_ChatwithGPT.*" />
+          <option name="PATTERN" value="Q01_ChatwithGPT.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,13 +111,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P13_fibonacciSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q3_ChatwithGPT.P13_fibonacciSequence" />
+      <module name="Chat_with_GTP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Q3_ChatwithGPT.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C14_passwordControlMethod" />
+        <item itemvalue="Application.P08_ifElse_emailControler" />
+        <item itemvalue="Application.P13_fibonacciSequence" />
         <item itemvalue="Application.P12_primeNumberMethod" />
         <item itemvalue="Application.P11_concatenationTwoStrings" />
-        <item itemvalue="Application.P10_multiplicationTable1_10" />
-        <item itemvalue="Application.P04_substringMethod" />
-        <item itemvalue="Application.P03_biggerInteger" />
       </list>
     </recent_temporary>
   </component>

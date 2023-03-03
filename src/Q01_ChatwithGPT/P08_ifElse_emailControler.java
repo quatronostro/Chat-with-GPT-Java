@@ -14,8 +14,7 @@ public class P08_ifElse_emailControler {
         // Q8: Write an if-else statement that checks if a given string is a valid email address.
         Scanner scan = new Scanner(System.in);
         String mail = "";
-        //System.out.println();
-        //System.out.println("========== RESULT ==========");
+
 
         boolean flag = false;
 
@@ -27,7 +26,7 @@ public class P08_ifElse_emailControler {
             if (mail.isEmpty()) {
                 System.out.println();
                 System.out.println("========== RESULT ==========");
-                System.out.println("Please try again:");
+                System.out.println("You've entered nothing. Please try again:");
             } else if (mail.contains(" ")) {
                 System.out.println();
                 System.out.println("========== RESULT ==========");
