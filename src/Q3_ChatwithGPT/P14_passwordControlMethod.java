@@ -2,7 +2,7 @@ package Q3_ChatwithGPT;
 
 import java.util.Scanner;
 
-public class C14_passwordControlMethod {
+public class P14_passwordControlMethod {
     public static void main(String[] args) {
         /*
         I asked to ChatGPT:
@@ -17,19 +17,16 @@ public class C14_passwordControlMethod {
         Scanner scan = new Scanner(System.in);
         System.out.println("This program controls your email address is valid or not." +
                 "\nPlease enter your mail address : ");
-        String mail = "";
 
-        emailController(mail);
-
-        // It doesn't work well, control again later!!!!
+        emailController();
 
     }
-    public static void emailController(String str){
+    public static void emailController(){
         Scanner scan = new Scanner(System.in);
         boolean flag = false;
 
         while (!flag) {
-            str = scan.next();
+            String str = scan.nextLine();
 
             if (str.isEmpty()) {
                 System.out.println();
