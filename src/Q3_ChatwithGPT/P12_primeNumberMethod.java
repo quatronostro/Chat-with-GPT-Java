@@ -4,11 +4,13 @@ import java.util.Scanner;
 
 public class P12_primeNumberMethod {
     public static void main(String[] args) {
-         /*
+        /*
         I asked to ChatGPT:
-        Ask me 10 java if else question for practise
+        ask me 5 while loop, 5 do while loop, 10 method overloading, 10 for loop question,
+        5 basic array question in Java language,
+        and ask this questions in a mix, also these will be different from previous questions
         It said quickly:
-        Certainly, here are ten Java if-else questions for practice:
+        Certainly! Here are some mixed Java questions:
          */
 
         // Q12: Write a method that takes in an integer and returns true if it is a prime number, and false otherwise.

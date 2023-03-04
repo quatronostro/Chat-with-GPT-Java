@@ -7,9 +7,11 @@ public class P15_replaceNegatives0 {
     public static void main(String[] args) {
         /*
         I asked to ChatGPT:
-        Ask me 10 java if else question for practise
+        ask me 5 while loop, 5 do while loop, 10 method overloading, 10 for loop question,
+        5 basic array question in Java language,
+        and ask this questions in a mix, also these will be different from previous questions
         It said quickly:
-        Certainly, here are ten Java if-else questions for practice:
+        Certainly! Here are some mixed Java questions:
          */
 
         // Q15: Write a for loop that iterates over an array of integers and replaces any negative numbers with 0
