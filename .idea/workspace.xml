@@ -58,33 +58,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.P18_onlyVowels">
-    <configuration name="P14_passwordControlMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q3_ChatwithGPT.P14_passwordControlMethod" />
-      <module name="Chat_with_GTP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Q3_ChatwithGPT.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P15_replaceNegatives0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q3_ChatwithGPT.P15_replaceNegatives0" />
-      <module name="Chat_with_GTP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Q3_ChatwithGPT.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P20_doWhile_enterNumber">
     <configuration name="P16_findingWordwithChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Q3_ChatwithGPT.P16_findingWordwithChar" />
       <module name="Chat_with_GTP" />
@@ -124,13 +98,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P19_allNumbersSum_finishWithNegative" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q3_ChatwithGPT.P19_allNumbersSum_finishWithNegative" />
+      <module name="Chat_with_GTP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Q3_ChatwithGPT.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P20_doWhile_enterNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q3_ChatwithGPT.P20_doWhile_enterNumber" />
+      <module name="Chat_with_GTP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Q3_ChatwithGPT.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P20_doWhile_enterNumber" />
+        <item itemvalue="Application.P19_allNumbersSum_finishWithNegative" />
         <item itemvalue="Application.P18_onlyVowels" />
         <item itemvalue="Application.P17_createArrayProductAllNum" />
         <item itemvalue="Application.P16_findingWordwithChar" />
-        <item itemvalue="Application.P15_replaceNegatives0" />
-        <item itemvalue="Application.P14_passwordControlMethod" />
       </list>
     </recent_temporary>
   </component>
