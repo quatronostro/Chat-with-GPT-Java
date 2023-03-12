@@ -58,13 +58,13 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.P20_doWhile_enterNumber">
-    <configuration name="P16_findingWordwithChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q3_ChatwithGPT.P16_findingWordwithChar" />
+  <component name="RunManager" selected="Application.P10_findMountainArray">
+    <configuration name="P10_findMountainArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q02_ChatwithGPT.P10_findMountainArray" />
       <module name="Chat_with_GTP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Q3_ChatwithGPT.*" />
+          <option name="PATTERN" value="Q02_ChatwithGPT.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P10_findMountainArray" />
         <item itemvalue="Application.P20_doWhile_enterNumber" />
         <item itemvalue="Application.P19_allNumbersSum_finishWithNegative" />
         <item itemvalue="Application.P18_onlyVowels" />
         <item itemvalue="Application.P17_createArrayProductAllNum" />
-        <item itemvalue="Application.P16_findingWordwithChar" />
       </list>
     </recent_temporary>
   </component>
